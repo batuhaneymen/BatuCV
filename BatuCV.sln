@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatuCV", "BatuCV.csproj", "{91AB10F1-0603-4314-8CFC-15593438B927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AB10F1-0603-4314-8CFC-15593438B927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AB10F1-0603-4314-8CFC-15593438B927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AB10F1-0603-4314-8CFC-15593438B927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AB10F1-0603-4314-8CFC-15593438B927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560CD9AA-5E74-475E-AD5C-C8D919700BAD}
+	EndGlobalSection
+EndGlobal
