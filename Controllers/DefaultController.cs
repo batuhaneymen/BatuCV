@@ -8,7 +8,7 @@ using BatuCV.Models.entity;
 namespace BatuCV.Controllers
 {
 
-
+    [AllowAnonymous]
     public class DefaultController : Controller
     {
         // GET: Default
